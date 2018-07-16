@@ -16,3 +16,7 @@ if bowl is empty:
 if bowl only has cereal in it:
     add milk
 ```
+
+[] Testing project
+[x] Typing Markdown
+[] Sth else
